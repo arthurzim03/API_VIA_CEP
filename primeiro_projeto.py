@@ -15,8 +15,7 @@ while len(cep_input) !=8:
     print("CEP informado está invalido: ")
     cep_input = input("informe o CEP valido: ")
     
-    exit()
-    print("resultado da consulta: ")
+    
 
 #fazendo a requisição
 
